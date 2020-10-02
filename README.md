@@ -1,4 +1,8 @@
-<h1> Formulário animado com JS puro e CSS Animation </h1>
+<h1 align="center"> 🚀 Formulário animado com JS puro e CSS Animation 🚀</h1>
+
+<p align="center">
+ <img " src="https://j.gifs.com/E8jyY0.gif">
+</p>
 
 <h2> Desafios </h2>
 
